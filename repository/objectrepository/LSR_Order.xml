@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LSR_ORDER>
+<LSR_FORM VALUE="" TYPE="" ACTION="">
+<ADMINSECTION VALUE="" TYPE="" ACTION="">
+<PON/>
+<CCNA/>                                                          
+</ADMINSECTION>
+</LSR_FORM>
+
+
+</LSR_ORDER>
+<BILL>
+	<BILL_SECTION>
+		<BI1 value="NF_Request.lsr_order.lsr(0).billsection(0).BI1" type="name"
+			action="text" />
+		<BAN1 value="NF_Request.lsr_order.lsr(0).billsection(0).BAN1"
+			type="name" action="text" />
+		<BI2 value="NF_Request.lsr_order.lsr(0).billsection(0).BI2" type="name"
+			action="text" />
+		<BAN2 value="NF_Request.lsr_order.lsr(0).billsection(0).BAN2"
+			type="name" action="text" />
+		<ACNA value="NF_Request.lsr_order.lsr(0).billsection(0).ACNA"
+			type="name" action="text" />
+		<EBD value="NF_Request.lsr_order.lsr(0).billsection(0).EBD" type="name"
+			action="text" />
+		<CNO value="NF_Request.lsr_order.lsr(0).billsection(0).CNO" type="name"
+			action="text" />
+		<NRI value="NF_Request.lsr_order.lsr(0).billsection(0).NRI" type="name"
+			action="select" />
+		<BILLNM value="NF_Request.lsr_order.lsr(0).billsection(0).BILLNM"
+			type="name" action="text" />
+		<SBILLNM value="NF_Request.lsr_order.lsr(0).billsection(0).SBILLNM"
+			type="name" action="text" />
+		<TE value="NF_Request.lsr_order.lsr(0).billsection(0).TE" type="name"
+			action="select" />
+		<EBP value="NF_Request.lsr_order.lsr(0).billsection(0).EBP" type="name"
+			action="text" />
+		<BSPRAO value="NF_Request.lsr_order.lsr(0).billsection(0).BSPRAO"
+			type="name" action="text" />
+		<VTA value="NF_Request.lsr_order.lsr(0).billsection(0).VTA" type="name"
+			action="text" />
+	</BILL_SECTION>
+	<BILLING_ADDRESS>
+		<STREET
+			value="NF_Request.lsr_order.lsr(0).billsection(0).BILLADDRESS.STREET"
+			type="name" action="text" />
+		<FLOOR value="NF_Request.lsr_order.lsr(0).billsection(0).BILLADDRESS.FLOOR"
+			type="name" action="text" />
+		<ROOM value="NF_Request.lsr_order.lsr(0).billsection(0).BILLADDRESS.ROOM"
+			type="name" action="text" />
+		<CITY value="NF_Request.lsr_order.lsr(0).billsection(0).BILLADDRESS.CITY"
+			type="name" action="select" />
+		<STATE value="NF_Request.lsr_order.lsr(0).billsection(0).BILLADDRESS.STATE"
+			type="name" action="text" />
+		<ZIP value="NF_Request.lsr_order.lsr(0).billsection(0).BILLADDRESS.ZIP"
+			type="name" action="text" />
+	</BILLING_ADDRESS>
+	<BILLING_CONTACT>
+		<BILLCON value="NF_Request.lsr_order.lsr(0).billsection(0).BILLCON"
+			type="name" action="text" />
+		<TELLNO value="NF_Request.lsr_order.lsr(0).billsection(0).VTA"
+			type="name" action="text" />
+	</BILLING_CONTACT>
+</BILL>
+<CONTACT>
+	<ATR
+		value="NF_Request.lsr_order.lsr(0).contactsection(0).SupplierLSROrderRequest.ATR"
+		type="name" action="text" />
+	<INITIATOR_CONTACT>
+		<INIT value="NF_Request.lsr_order.lsr(0).contactsection(0).INIT"
+			type="name" action="text" />
+		<TELNO value="NF_Request.lsr_order.lsr(0).contactsection(0).TELNO"
+			type="name" action="text" />
+		<EMAIL value="NF_Request.lsr_order.lsr(0).contactsection(0).EMAIL"
+			type="name" action="text" />
+		<FAXNO value="NF_Request.lsr_order.lsr(0).contactsection(0).FAXNO"
+			type="name" action="text" />
+		<STREET
+			value="NF_Request.lsr_order.lsr(0).contactsection(0).INITLOCALE.STREET"
+			type="name" action="text" />
+		<FLOOR
+			value="NF_Request.lsr_order.lsr(0).contactsection(0).INITLOCALE.FLOOR"
+			type="name" action="text" />
+		<ROOM value="NF_Request.lsr_order.lsr(0).contactsection(0).INITLOCALE.ROOM"
+			type="name" action="text" />
+		<CITY value="NF_Request.lsr_order.lsr(0).contactsection(0).INITLOCALE.CITY"
+			type="name" action="text" />
+		<STATE
+			value="NF_Request.lsr_order.lsr(0).contactsection(0).INITLOCALE.STATE"
+			type="name" action="select" />
+		<ZIP value="NF_Request.lsr_order.lsr(0).contactsection(0).INITLOCALE.ZIP"
+			type="name" action="text" />
+	</INITIATOR_CONTACT>
+	<IMPLEMENTATION_CONTACT>
+		<NAME value="NF_Request.lsr_order.lsr(0).contactsection(0).IMPCON.NAME"
+			type="name" action="text" />
+		<TELNO
+			value="NNF_Request.lsr_order.lsr(0).contactsection(0).ALTIMPCON.TELNO"
+			type="name" action="text" />
+		<PAGER value="NF_Request.lsr_order.lsr(0).contactsection(0).ALTIMPCON.PAGER"
+			type="name" action="text" />
+	</IMPLEMENTATION_CONTACT>
+	<DESIGN_ENGINEERING_CONTACT>
+		<DSGCON value="NF_Request.lsr_order.lsr(0).contactsection(0).DSGCON"
+			type="name" action="text" />
+		<DRC value="NF_Request.lsr_order.lsr(0).contactsection(0).DRC"
+			type="name" action="text" />
+		<TELNO
+			value="NF_Request.lsr_order.lsr(0).contactsection(0).DSGCONTACT.TELNO"
+			type="name" action="text" />
+		<FAXNO
+			value="NF_Request.lsr_order.lsr(0).contactsection(0).DSGCONTACT.FAXNO"
+			type="name" action="text" />
+		<EMAIL
+			value="NF_Request.lsr_order.lsr(0).contactsection(0).DSGCONTACT.EMAIL"
+			type="name" action="text" />
+		<STREET
+			value="NF_Request.lsr_order.lsr(0).contactsection(0).DSGLOCALE.STREET"
+			type="name" action="text" />
+		<FLOOR value="NF_Request.lsr_order.lsr(0).contactsection(0).DSGLOCALE.FLOOR"
+			type="name" action="text" />
+		<ROOM value="NF_Request.lsr_order.lsr(0).contactsection(0).DSGLOCALE.ROOM"
+			type="name" action="text" />
+		<CITY value="NF_Request.lsr_order.lsr(0).contactsection(0).DSGLOCALE.CITY"
+			type="name" action="text" />
+		<CITY value="NF_Request.lsr_order.lsr(0).contactsection(0).DSGLOCALE.CITY"
+			type="name" action="text" />
+		<STATE value="NF_Request.lsr_order.lsr(0).contactsection(0).DSGLOCALE.STATE"
+			type="name" action="select" />
+		<ZIP value="NF_Request.lsr_order.lsr(0).contactsection(0).DSGLOCALE.ZIP"
+			type="name" action="text" />
+	</DESIGN_ENGINEERING_CONTACT>
+</CONTACT>
+<REMARKS>
+	<REM value="NF_Request.lsr_order.lsr(0).REMARKS" type="name"
+		action="text" />
+</REMARKS>
+</TESTING>
+
+
+
+
+

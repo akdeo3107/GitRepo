@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<settings>
+	<platform name="Gateways" env = "QA">
+		<application guiname="LSR/ASR SEND CH BASIC GUI">
+			<username>exampleussss</username>
+			<password>example</password>
+			<url>http://www.google.com</url>
+			<domain>CCST_E2E</domain>
+		</application>
+		<application guiname="HAWAIITEL BASIC GUI">
+			<username>example</username>
+			<password>example</password>
+			<url>https://10.61.42.56:8080/gateway</url>
+			<domain>HAWAIITEL</domain>
+		</application>
+		<application guiname="ASR RECEIVE BRANDED GUI(HAWAIITEL)">
+			<username>example</username>
+			<password>example</password>
+			<url>https://10.61.42.56:8299/gateway</url>
+			<domain>HT_TEST</domain>
+		</application>
+		<application guiname="LSR RECEIVE BRANDED GUI(HAWAIITEL)">
+			<username>example</username>
+			<password>example</password>
+			<url>https://10.61.42.56:8299/gateway</url>
+			<domain>ATTT</domain>
+		</application>
+		<application guiname="COMMON BRANDED GUI">
+			<username>example</username>
+			<password>example</password>
+			<url>https://10.61.42.56:8180/gateway</url>
+			<domain>ATTT,TWC_STB,CRKTP_BHN</domain>
+		</application>
+	</platform>
+</settings>

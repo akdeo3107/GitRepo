@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<login>
+<DOMAIN value="NF_CustomerId" type="name" action="text" /> 
+<USERNAME value="NF_UserName" type="name" action="text" /> 
+<PASSWORD value="NF_Password" type="name" action="text" /> 
+<LOGINBTN value="//*[@src='/gateway/images/authentication/LogonButton.gif']" type="xpath" action="click" /> 
+</login>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order>
+      <TEST_CASE name="CreateOrder" execution="TRUE" />
+           <SANITY>N</SANITY>
+           <REGRESSION>Y</REGRESSION>
+           <ORDERTYPE>LSR_ORDER</ORDERTYPE>
+           <RequestType>AB - Loop</RequestType>
+           <Supplier>ATT</Supplier>
+           <TEMPLATE>test</TEMPLATE>
+</Order>    
+

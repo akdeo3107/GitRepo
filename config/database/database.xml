@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<dbsettings>
+	<platform name="Gateways">
+		<datasource env="QA">
+			<DatabaseDriver>oracle.jdbc.driver.OracleDriver</DatabaseDriver>
+			<DatabaseUrl>jdbc:oracle:thin:@10.61.2.181:2115:nfclqa2</DatabaseUrl>
+			<DatabaseUserName>basic_qa</DatabaseUserName>
+			<DatabaseKey>F8AAA331E4767D1AE40DB885A1B09144</DatabaseKey>
+			<DatabasePassword>51E685AB67262CC72FD07F158A0955E2</DatabasePassword>
+		</datasource>
+	</platform>
+</dbsettings>
